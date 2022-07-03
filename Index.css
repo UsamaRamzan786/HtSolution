@@ -1,0 +1,427 @@
+body{
+  overflow-x: hidden;
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	
+}
+u {
+  padding-bottom:2px;
+  text-decoration:none;
+  border-bottom:2px solid white;
+}
+.welcom{
+
+	background-image: url("Assets/header.png");
+	width: 100%;
+  height: 48rem;
+  background-size: cover;
+	position: relative;
+
+}
+a:active{
+	 border-radius: 20px;
+	  padding: 5px 8px; 
+		background-color: white;
+		color: black;
+}
+.callBack{
+	background-color: white;
+	opacity: 0.1;
+	color: white;
+}
+.aboutus{
+
+	background-image: url("Assets/about us bg.png");
+	width: 100%;
+  height: 45rem;
+  background-size: cover;
+	background-position:right;
+	position: relative;
+
+}
+.abt{
+	position: absolute;
+	top: 6rem;
+	right: 12rem;
+	width: 25rem;
+}
+
+.services{
+
+	background-image: url("Assets/services bg.png");
+	width: 100%;
+    /* height: 800px; */
+    background-size: cover;
+    background-position:right;
+		color: white;
+}
+
+.start{
+
+	background-image: url("Assets/what are you waiting bg.png");
+	width: 100%;
+    height: 500px;
+    background-size: cover;
+    /* background-position:right; */
+		position: relative;
+}
+.str{
+	position: absolute;
+	top: 4rem;
+	left: 5rem;
+	width: 30rem;
+}
+.portfolio{
+
+	background-image: url("Assets/Portfolio bg.png");
+	width: 100%;
+    /* height: 900px; */
+    background-size: cover;
+    background-position:right;
+		color: white;
+}
+.col1-imge{
+	height: 22rem;
+	width: 20rem;
+	margin: 0.5em;
+}
+
+
+.col2-imge{
+	height: 14rem;
+	width: 20rem;
+	margin: 0.5rem;
+	
+}
+.col3-imge{
+	height: 15rem;
+	width: 20rem;
+	margin: 0.5rem;
+}
+
+.skills{
+
+	background-image: url("Assets/Our Skills bg.png");
+		width: 100%;
+    height: 500px;
+    background-size: cover;
+		position: relative;
+    
+}
+.skill{
+	position:absolute;
+	top: 7rem;
+	left: 12rem;
+	width: 28rem;
+}
+.service{
+	margin: 1.2rem 0rem 0rem 0rem;
+	padding: 2rem 0rem 0rem 2rem;
+	border-radius: 2.5rem;
+	
+	
+}
+.testimonial{
+
+	background-image: url("Assets/testimonials bg.png");
+	width: 100%;
+	height: 700px;
+	background-size: cover;
+	background-position:right;
+	color: white;
+	position: relative;
+}
+.testimonialImg{
+	position: absolute;
+	top: 6rem;
+	left: 42rem;
+}
+.testimonialText{
+	position: absolute;
+	top: 20rem;
+	left: 15rem;
+	right: 15rem;
+	font-size: 18px;
+	text-align: center;
+
+}
+.startCot{
+	position: absolute;
+	top: 15rem;
+	left: 11rem;
+}
+.endCot{
+	position: absolute;
+	top: 27rem;
+	right: 10rem;
+}
+.anonymous{
+	position: absolute;
+	top: 31rem;
+	left: 42rem;
+
+}
+.faqs{
+
+	background-image: url("Assets/FAQS bg.png");
+	width: 100%;
+    height: 800px;
+    background-size: cover;
+ 	background-position:center;
+ 	color: white;  
+	position: relative; 
+}
+.faqdis{
+	position:absolute;
+	top: 7rem;
+	left: 5rem;
+}
+.faquestion{
+	position:absolute;
+	top: 3rem;
+	right: 5rem;
+}
+.accordion-item{
+	margin-top: 1rem;
+	border-radius: 10px;
+	border-color: white;
+}
+.wayus{
+
+	background-image: url("Assets/why choose us bg.png");
+	width: 100%;
+    height: 38rem;
+    background-size: cover;
+    /* background-position:right;    */
+    color: white;
+    
+}
+.choose{
+	padding: 3.4rem 0rem 3.4rem 2rem;
+	border-radius: 2.5rem;
+	
+}
+.iconDiv{
+	margin:0px 0px 0px 5px ;
+}
+.iconDiv h1{
+	padding: 0px;
+	margin: 0px;
+
+}
+.contactus{
+
+	background-image: url("Assets/contact us bg Graphic design.png");
+	width: 100%;
+    height: 800px;
+    background-size: cover;
+    /* background-position: top; */
+    margin: 0px;
+}
+.contactusform{
+	margin-top: 0px;
+	margin-bottom:0px ;
+	margin-left: 10rem;
+	margin-right: 0px;
+	background-image: url("Assets/contact us form bg.png");
+	width: 80%;
+    height: 50rem;
+    background-size: cover;
+    background-position:center;
+	  
+}
+.contact{
+	color: white;
+	padding-top: 17rem;
+	
+	 position: relative;
+}
+.mailImg{
+position:absolute;
+top: 15rem;
+left: 13rem;
+}
+.discriptionForm{
+position:absolute;
+top: 8rem;
+left:30rem;
+}
+.in{
+	padding: 0px; 
+	margin: 0px;
+	color: white;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid gray;
+	outline: none;
+	background-color:transparent ;
+	width: 100%;
+}
+.lab{
+	padding-top: 0.5rem;
+	margin: 0px;
+}
+input{
+	padding-bottom: 0.7rem;
+	color: white;
+	border: none;
+	border-bottom: 1px solid white;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid gray;
+	outline: none;
+	background-color:transparent ;
+	
+	
+}
+input::selection{
+	outline: none;
+	background-color:transparent ;
+}
+.footer{
+
+	color: white;
+	background-image: url("Assets/footer bg.png");
+	width: 100%;
+    height: 47rem;
+    background-size: cover;
+		display: block;
+		justify-content: center;
+		padding: 7rem 10rem 2rem 10rem;
+    
+}
+.flogoimg{
+	margin:0rem 0rem 4rem  22.5rem;
+	
+}
+ul{
+	list-style: none;
+	color: white;
+	padding: 0px;
+	margin: 0px;
+}
+li a{
+	font-weight: 300;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	color: white;
+	
+}
+.policy{
+	margin-top: 1rem;
+	margin-bottom: 4rem;
+}
+.policy p{
+	font-weight: 300;
+}
+.linehight{
+	line-height: 3rem;
+}
+.fa{
+	margin-right: 1rem;
+}
+.socialIcons{
+	padding: 10px 0px 0px 1040px;
+}
+@media screen and (max-width: 580px) {
+	.footer{
+		 background-position: center;
+		 height: 65rem;
+   	padding: 8rem 0rem 5rem 0rem;
+	}
+	.flogoimg{
+	margin: 0px 0px 17px 0px;
+	}
+  .wayus {
+		 height: 60rem;
+	}
+	.row img{
+		margin-top: 10px;
+		margin-left: 5px;
+
+	}
+	.skill{
+	
+	top: 4rem;
+	left: 7rem;
+	
+}
+.str{
+	
+	top: 2rem;
+	left: 5rem;
+	
+}
+.aboutus{
+	height: 35rem;
+}
+.abt{
+	
+	top: 3rem;
+	right: 2rem;
+
+}
+.welcom{
+	height: 66rem;
+}
+.testimonialImg{
+	
+	top: 6rem;
+	left: 12rem;
+}
+.testimonial{
+	height: 57rem;
+}
+.testimonialText{
+	
+	top: 22rem;
+	left: 4rem;
+	right: 4rem;
+	font-size: 18px;
+	text-align: center;
+
+}
+.startCot{
+	
+	top: 17rem;
+	left: 3rem;
+}
+.endCot{
+	
+	top: 38rem;
+	right: 4rem;
+}
+.anonymous{
+	position: absolute;
+	top: 47rem;
+	left: 12rem;
+
+}
+.faqs{
+	height: 67rem;
+}
+.faquestion{
+	top: 25rem;
+	
+}
+.contactusform{
+	
+margin-left: 1rem;
+	width: 100%;
+    height: 50rem;
+    }
+		.mailImg{
+			display: none;
+		}
+.discriptionForm{
+	position:absolute;
+	top: 8rem;
+	left:2rem;
+}
+.socialIcons{
+	padding: 20px 0px 0px 370px;
+}
+  
+}
