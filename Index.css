@@ -5,6 +5,7 @@ body{
 	padding: 0px;
 	
 }
+
 u {
   padding-bottom:2px;
   text-decoration:none;
@@ -135,7 +136,7 @@ a:active{
 .testimonialImg{
 	position: absolute;
 	top: 6rem;
-	left: 42rem;
+	left: 38rem;
 }
 .testimonialText{
 	position: absolute;
@@ -159,7 +160,7 @@ a:active{
 .anonymous{
 	position: absolute;
 	top: 31rem;
-	left: 42rem;
+	left: 38rem;
 
 }
 .faqs{
